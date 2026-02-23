@@ -4,6 +4,7 @@
 }
 */
 
+<<<<<<< Updated upstream
 // Arrow function and template literals
 
 // template literals use garna:
@@ -12,6 +13,9 @@
     string jastai. for example `hello`
     variable ko value use garna chai ${variable_name}
 */
+=======
+
+>>>>>>> Stashed changes
 const greet = (name) => {
   //   console.log(`Hello, ${name}`);
 };
